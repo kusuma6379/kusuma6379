@@ -10,10 +10,15 @@
 ---
 
 ## 👨‍🎓 About Me
-- Software Development Engineer in Test (SDET) with expertise in automation testing and front-end development.
-- Passionate about building scalable, efficient, and reliable automation solutions.
-- Skilled in Selenium, Java, Cypress, Javascript and modern test automation frameworks.
-- Constantly learning and staying updated with the latest technologies.
+- SDET skilled in manual, automation, API, and performance testing
+- Proficient in Java, JavaScript, Selenium, Cypress, TestNG, Postman
+- Experienced with CI/CD tools like Jenkins and GitHub
+- Strong in writing test cases, bug reports, and automation scripts
+- Passionate about building reliable and scalable QA solutions
+
+
+  
+
 
 ---
 
