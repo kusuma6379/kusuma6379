@@ -4,8 +4,9 @@ Selenium | Cypress | Java | TestNG | Cucumber | API Testing
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+SDET+%7C+Software+Testing+Engineer;Manual+%2B+Automation+Testing;Selenium+%7C+Cypress+%7C+TestNG;API+Testing+with+Postman+%26+RestAssured;Performance+Testing+using+JMeter;Bug+Reporting+%7C+Test+Planning+%7C+POM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=SDET+%7C+Software+Testing+Engineer;Manual+%2B+Automation+Testing;Selenium+%7C+Cypress+%7C+TestNG;API+Testing+with+Postman+%26+REST+Assured;Performance+Testing+using+JMeter;Bug+Reporting+%7C+Test+Planning+%7C+POM" alt="Typing SVG" />
 </p>
+
 
 
 
