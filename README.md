@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madavali Kusuma</h1>
-<h3 align="center">Software Development Engineer in Test (SDET) with hands-on experience in automation, manual, API, and performance testing.</h3>
+<h3 align="center">Software Development Engineer in Test (SDET) with hands-on experience in Manual and Automation Testing of web applications.
+Selenium | Cypress | Java | TestNG | Cucumber | API Testing
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+SDET+%7C+Software+Testing+Engineer;Manual+%2B+Automation+Testing;Selenium+%7C+Cypress+%7C+TestNG;API+Testing+with+Postman+%26+RestAssured;Performance+Testing+using+JMeter;Bug+Reporting+%7C+Test+Planning+%7C+POM" alt="Typing SVG" />
